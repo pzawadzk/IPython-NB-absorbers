@@ -1,5 +1,5 @@
 #Development of solar absorbers
-###[Click here to view notebooks](http://nbviewer.ipython.org/github/pzawadzk/Solar_absorbers_ipython_notebooks/tree/master/)
+###[Click here to view notebooks](http://nbviewer.ipython.org/github.com/pzawadzk/IPython-NB-absorbers/tree/master/)
 
 ###Tools:
 - Data Analysis: Python, Numpy, Scipy, Pandas, Statsmodels, Ase, Pylada
